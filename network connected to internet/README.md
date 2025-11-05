@@ -30,6 +30,3 @@ FEATURES:
 CREDENTIALS:
 user: admin, password: cisco123
 
-TODO:
-
-* NAT
